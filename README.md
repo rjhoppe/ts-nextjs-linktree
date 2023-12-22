@@ -1,6 +1,6 @@
-# Next.js & NextUI Template
+# ts-nextjs-linktree
 
-This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
+A simple build of a linktree component for use in a Next.js and NextUI application
 
 ## Technologies Used
 

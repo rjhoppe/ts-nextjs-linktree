@@ -1,0 +1,9 @@
+Source vid:
+https://www.youtube.com/watch?v=rMyx5XiYnxI&t=92s
+
+Don't want to use the Link component (next/link) because that is typically used
+for rerouting to another page within your application. To link to an external source
+wrap your component/link in an a href with a target="_blank"
+
+For cool gradient background ideas
+hypercolor.dev
